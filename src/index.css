@@ -1,0 +1,82 @@
+/* index.css */
+
+/* Navbar customization */
+.navbar-custom {
+  background-color: darkred;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+  color: yellow;
+}
+
+.navbar-custom .nav-link:hover {
+  color: lightyellow;
+}
+
+/* General font color */
+body {
+  color: blue;
+}
+
+/* Button customization */
+.btn-custom {
+  background-color: darkred;
+  color: yellow;
+  border: none;
+}
+
+.btn-custom:hover {
+  background-color: #a30000;
+  color: lightyellow;
+}
+/* index.css */
+
+/* Navbar customization */
+.navbar-custom {
+  background-color: darkred;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+  color: yellow;
+}
+
+.navbar-custom .nav-link:hover {
+  color: lightyellow;
+}
+
+/* General font color */
+body {
+  color: blue;
+}
+
+/* Button customization */
+.btn-custom {
+  background-color: darkred;
+  color: yellow;
+  border: none;
+}
+
+.btn-custom:hover {
+  background-color: #a30000;
+  color: lightyellow;
+}
+
+/* Large button customization */
+.btn-custom-large {
+  background-color: burgundy;
+  color: yellow;
+  border: none;
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+}
+
+.btn-custom-large:hover {
+  background-color: #800000;
+  color: lightyellow;
+}
+/* Container customization */
+.container {
+  margin-top: 20px;
+}
