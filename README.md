@@ -1,1 +1,1 @@
-# ReactTypescriptTasks
+# ReactTypescriptTasks App to manage task with login and registration using typescript. Has task dashboard with add task form user can collapse the page sections on the dashboard. App is deployed on Netlify https://6715b00ba753f1b2c44fa75d--wonderful-valkyrie-b2e867.netlify.app/
